@@ -4,6 +4,10 @@ body{
   margin:20px;
 }
 
+.navbar-dark {
+        border-color:#ffdc34;
+      }
+  
 .myclass{
      margin-top:20px;
      border:10px solid #110133;
